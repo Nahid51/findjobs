@@ -1,0 +1,9 @@
+.footerLink>ul>a {
+    transition-duration: 300ms;
+    transition-timing-function: ease-in-out;
+}
+
+.footerLink>ul>a:hover {
+    color: #5AA0F2;
+    transform: translateX(16px);
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "country": "Bangladesh",
+        "district": "Pabna",
+        "category": "Education/Training",
+        "openPositoin": 343
+    },
+    {
+        "id": 2,
+        "country": "Bangladesh",
+        "district": "Dhaka",
+        "category": "Design/Creative",
+        "openPositoin": 231
+    },
+    {
+        "id": 3,
+        "country": "Bangladesh",
+        "district": "Dhaka",
+        "category": "IT & Telecommunication",
+        "openPositoin": 512
+    },
+    {
+        "id": 4,
+        "country": "Bangladesh",
+        "district": "Barishal",
+        "category": "Engineer/Architects",
+        "openPositoin": 343
+    },
+    {
+        "id": 5,
+        "country": "Bangladesh",
+        "district": "Pabna",
+        "category": "Marketing/Sales",
+        "openPositoin": 854
+    },
+    {
+        "id": 6,
+        "category": "Data Entry/Operator/BPO",
+        "openPositoin": 76
+    },
+    {
+        "id": 7,
+        "category": "Accounting/Finance",
+        "openPositoin": 445
+    },
+    {
+        "id": 8,
+        "category": "Bank/ Non-Bank Institution",
+        "openPositoin": 155
+    },
+    {
+        "id": 9,
+        "category": "Electrician/ Construction/ Repair",
+        "openPositoin": 34
+    },
+    {
+        "id": 10,
+        "category": "Customer Service/Call Centre",
+        "openPositoin": 122
+    }
+]

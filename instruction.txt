@@ -1,0 +1,7 @@
+*** All Packages ***
+1. npm i react-icons
+2. npm i react-hook-form
+3. npm i react-paginate
+4. npm i --save react-select
+5. npm install firebase
+6. npm install --save react-toastify

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Backend Developer",
+        "openignPosition": 25,
+        "location": "Banani",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 2,
+        "title": "Frontend Developer",
+        "openignPosition": 25,
+        "location": "Mirpur",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 3,
+        "title": "Game Developer",
+        "openignPosition": 25,
+        "location": "Dhanmondi",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 4,
+        "title": "UI/UX Designer",
+        "openignPosition": 25,
+        "location": "Paltan",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 5,
+        "title": "Full Stack Developer",
+        "openignPosition": 25,
+        "location": "Banani",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 6,
+        "title": "Assistant IT Officer",
+        "openignPosition": 25,
+        "location": "Mirpur",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 7,
+        "title": "Software Engineer",
+        "openignPosition": 25,
+        "location": "Mirpur",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 8,
+        "title": "Wordpress Developer",
+        "openignPosition": 25,
+        "location": "Panthapath",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 9,
+        "title": "React JS Developer",
+        "openignPosition": 25,
+        "location": "Gazipur",
+        "photo": "/icons/design.png"
+    },
+    {
+        "id": 11,
+        "title": "Node JS Developer",
+        "openignPosition": 25,
+        "location": "Badda",
+        "photo": "/icons/design.png"
+    }
+]

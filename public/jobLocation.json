@@ -1,0 +1,548 @@
+[
+    {
+        "id": 448,
+        "country": "Bangladesh",
+        "district": [
+            {
+                "id": 32,
+                "district": "Dhaka"
+            },
+            {
+                "id": 16,
+                "district": "Gazipur"
+            },
+            {
+                "id": 65,
+                "district": "Bogra"
+            },
+            {
+                "id": 18,
+                "district": "Sirajgang"
+            },
+            {
+                "id": 44,
+                "district": "Pabna"
+            },
+            {
+                "id": 56,
+                "district": "Barishal"
+            },
+            {
+                "id": 28,
+                "district": "Sylhet"
+            },
+            {
+                "id": 92,
+                "district": "Faridpur"
+            },
+            {
+                "id": 29,
+                "district": "Chattogram"
+            },
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 23,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "country": "Tanzania",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 89,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "country": "Bhutan",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 111,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "country": "India",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 112,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "country": "Andorra",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 113,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 343,
+        "country": "Congo - Brazzaville",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 125,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 854,
+        "country": "Honduras",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 126,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 993,
+        "country": "Guinea-Bissau",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 258,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 695,
+        "country": "British Indian Ocean Territory",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 84,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 955,
+        "country": "British Indian Ocean Territory",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 336,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 446,
+        "country": "Palestinian Territories",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 789,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 552,
+        "country": "St. Pierre & Miquelon",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 48,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 845,
+        "country": "Burundi",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 654,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 998,
+        "country": "Cocos (Keeling) Islands",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 784,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "country": "El Salvador",
+        "district": [
+            {
+                "id": 6,
+                "district": "Noakhali"
+            },
+            {
+                "id": 68,
+                "district": "Rangpur"
+            },
+            {
+                "id": 965,
+                "district": "Rajshahi"
+            },
+            {
+                "id": 22,
+                "district": "Jessore"
+            },
+            {
+                "id": 79,
+                "district": "Chadpur"
+            },
+            {
+                "id": 75,
+                "district": "Gopalganj"
+            },
+            {
+                "id": 27,
+                "district": "Satkhira"
+            }
+        ]
+    }
+]

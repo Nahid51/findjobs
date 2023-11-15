@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.is-sticky {
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: white;
+}
+
+.color_primary {
+  color: #24365E;
+}
+
+.color_secondary {
+  color: #006AFF;
+}
+
+.button_primary {}
+
+.button_secondary {}
